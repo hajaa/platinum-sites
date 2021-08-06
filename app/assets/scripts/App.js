@@ -1,4 +1,3 @@
-import '../styles/styles.css';
+import "../styles/styles.css";
 
-
-alert("Сайн байна уу");
+alert("Сайн байна уу?");
