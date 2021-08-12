@@ -8,10 +8,10 @@
   }
 
   &--gutters-large {
-    margin-right: 120px;
+    margin-right: -80px;
   }
-  &--gutters-large {
-    margin-right: 120px;
+  &--gutters-large > div {
+    margin-right: 80px;
   }
   /*Хамгийн жижиг дэлгэцнээр medium хүртэл энийг ашиглана.*/
   &__b-margin-until-medium {
